@@ -1,0 +1,15 @@
+.searchFunc {
+    text-align: center;
+    color: rgb(215, 153, 153);
+    border: 1px solid rgb(231, 135, 135);
+    border-radius: 10px;
+    width: 30%;
+    margin: auto;
+    padding: 40px;
+}
+
+.searchFunc>form {
+    color: black;
+    display: inline-block;
+    justify-content: center;
+}

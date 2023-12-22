@@ -1,0 +1,7 @@
+.Bookselectionform {
+    border: 1px solid rgb(226, 139, 139);
+    margin: auto;
+    display: inline-block;
+    padding: 20px;
+    border-radius: 20px;
+}

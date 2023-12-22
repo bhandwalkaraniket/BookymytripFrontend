@@ -1,0 +1,8 @@
+.bookingcard {
+    border: 1px solid rgb(233, 139, 139);
+    width: 85%;
+    margin: auto;
+    padding: 35px;
+    text-align: center;
+    border-radius: 35px;
+}

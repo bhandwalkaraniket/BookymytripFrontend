@@ -1,0 +1,49 @@
+.mylognav {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(249, 249, 249);
+    color: rgb(224, 208, 208);
+    text-decoration: none;
+}
+
+a {
+    color: rgb(0, 0, 0);
+}
+
+a:hover {
+    color: rgb(48, 131, 152);
+}
+
+.loginnav {
+    padding: 10px;
+    margin: 10px;
+    margin-left: 100px;
+    color: rgb(7, 7, 7);
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    border: 6px solid rgb(234, 179, 179);
+}
+
+.loginnavlog {
+    padding: 10px;
+    margin: 10px;
+    margin-left: 160px;
+    color: rgb(22, 22, 22);
+    background-color: rgb(246, 246, 246);
+    border-radius: 20px;
+}
+
+.mylognav>link {
+    color: black;
+}
+
+.registertable {
+    width: 180px;
+    height: 180px;
+}
+
+.indexformstyle {
+    border: 1px solid rgb(227, 151, 151);
+    padding: 40px;
+    border-radius: 20px;
+}
